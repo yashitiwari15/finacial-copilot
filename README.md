@@ -1,6 +1,6 @@
 # AI-Powered Financial Copilot
 
-An intelligent financial management application built with Streamlit, LangChain, SQLite, and yfinance. This application helps users manage their finances, analyze their portfolio, classify transactions, assess financial risk, and get personalized budgeting advice.
+A smart personal finance assistant built using Streamlit, LangChain, yFinance, Hugging Face, and Together AI. The application enables users to analyze investment portfolios, categorize transactions, evaluate financial risk, and receive personalized budgeting recommendations through an LLM-powered chatbot interface.
 
 ## Features
 
@@ -23,7 +23,7 @@ An intelligent financial management application built with Streamlit, LangChain,
    - Spending pattern analysis
 
 4. **Budget Advisor**
-   - AI-powered financial advice
+   - AI-powered financial chatbot
    - Personalized budgeting tips
    - Spending insights
    - Actionable recommendations
