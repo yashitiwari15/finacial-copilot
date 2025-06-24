@@ -1,0 +1,10 @@
+streamlit==1.32.0
+langchain==0.1.12
+langchain-openai==0.0.8
+yfinance==0.2.36
+pandas==2.2.1
+plotly==5.19.0
+python-dotenv==1.0.1
+openai==1.14.0
+numpy==1.26.4
+streamlit-option-menu==0.3.12 
